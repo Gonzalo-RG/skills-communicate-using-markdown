@@ -4,4 +4,3 @@
 #### Four
 ##### Five
 ###### And last but not least, six
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
